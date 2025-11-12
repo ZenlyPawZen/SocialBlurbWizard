@@ -92,7 +92,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-background">
-      <div className="max-w-5xl mx-auto px-4 md:px-6 py-8 md:py-12">
+      <div className="max-w-5xl mx-auto px-4 md:px-3 py-8 md:py-12">
         <header className="mb-8">
           <h1 className="text-2xl font-semibold mb-2" data-testid="text-title">
             Social Formatter
